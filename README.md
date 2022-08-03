@@ -1,8 +1,8 @@
-This is a demo repo for our blog post on Small and reusable [Tailwind components with React](https://www.luckymedia.dev/blog/small-and-reusable-tailwind-components-with-react)
+This is a demo repo for our blog post on [Small and reusable Tailwind components with React](https://www.luckymedia.dev/blog/small-and-reusable-tailwind-components-with-react)
 
 ## Getting Started
 
-To install this project locally you will need Node (v14)+ installed.
+Node (v14)+ is required for a local installation of this project.
 
 ```bash
 npm install
@@ -10,7 +10,7 @@ npm install
 
 ## Development
 
-To run the code in development you will have to run:
+To run the code in development you need to use the following command:
 
 ```bash
 npm run dev
@@ -18,7 +18,7 @@ npm run dev
 
 ## Production
 
-To bundle the code for production:
+To bundle the code for production run:
 
 ```bash
 npm run build
